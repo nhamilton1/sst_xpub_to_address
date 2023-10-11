@@ -1,22 +1,6 @@
-# How to create a REST API in Rust
-
-An example serverless app created with SST.
-
-## Getting Started
-
-Install the example.
-
-```bash
-$ npx create-sst@latest --template=examples/rest-api-rust
-# Or with Yarn
-$ yarn create sst --template=examples/rest-api-rust
-# Or with PNPM
-$ pnpm create sst --template=examples/rest-api-rust
-```
-
 ## Commands
 
-### `npm run dev`
+### `pnpm run dev`
 
 Starts the Live Lambda Development environment.
 
